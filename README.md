@@ -1,19 +1,19 @@
 # 系列专题
 
-- Lodash系列更新中...
+- Lodash专题更新中...
 
 ## 专栏
 
 * [掘金主页](https://juejin.cn/user/26044007464013/posts)
 * [segmentfault主页](https://segmentfault.com/u/orekish/articles)
 
-## Loadsh系列目录
+## Loadsh专题目录
 
-- [Lodash函数篇](https://github.com/OrekiSH/blog/issues/4)
-- Lodash数组篇
-- Lodash语言特性篇
-- Lodash对象篇
-- Lodash字符串篇
+- [Lodash系列之函数篇](https://github.com/OrekiSH/blog/issues/4)
+- [Lodash系列之数组篇](https://github.com/OrekiSH/blog/issues/5)
+- Lodash系列之语言特性篇
+- Lodash系列之对象篇
+- Lodash系列之字符串篇
 
 ## 勘误及提问
 
